@@ -3,10 +3,16 @@
 
 _Description:_  Nodeschool workshopper
 
-_How to get functional-javascript tutorial:_
+*Get functional-javascript tutorial:*
 ```
   $ npm install -g functional-javascript
 ```
+
+
+*Run the tutorial*
+```
+  $ functional-javascript
+``` 
 
 > Solutions in progress!
 
