@@ -1,6 +1,13 @@
 # FUNCTIONAL-JAVASCRIPT SOLUTIONS
 ---
 
+_Description:_  Nodeschool workshopper
+
+_How to get functional-javascript tutorial:_
+```
+  $ npm install -g functional-javascript
+```
+
 > Solutions in progress!
 
 ---
