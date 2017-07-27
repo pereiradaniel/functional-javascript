@@ -9,7 +9,7 @@ _Description:_  Nodeschool workshopper
 ```
 
 
-*Run the tutorial*
+*Run the tutorial:*
 ```
   $ functional-javascript
 ``` 
