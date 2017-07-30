@@ -17,4 +17,6 @@ _Description:_  Nodeschool workshopper
 > Solutions in progress!
 
 ---
+
 _*Daniel Paul Grech Pereira 2017*_
+_*twitter: @pereirawebdev
