@@ -19,4 +19,4 @@ _Description:_  Nodeschool workshopper
 ---
 
 _*Daniel Paul Grech Pereira 2017*_
-_*twitter: [@pereirawebdev]<https://www.twitter.com/pereirawebdev>
+_*twitter: [@pereirawebdev](https://www.twitter.com/pereirawebdev)
