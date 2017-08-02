@@ -1,7 +1,7 @@
 # FUNCTIONAL-JAVASCRIPT SOLUTIONS
 ---
 
-_Description:_  Nodeschool workshopper
+_Description:_  [Nodeschool](https://nodeschool.io/) workshopper
 
 *Get functional-javascript tutorial:*
 ```
