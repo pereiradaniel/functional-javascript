@@ -1,8 +1,12 @@
-function reduce(arr, fn, initial) {
-  return (function reduceOne(index, value) {
-    if (index > arr.length - 1) return value // end condition
-    return reduceOne(index + 1, fn(value, arr[index], index, arr)) // calculate & pass values to next step
-  })(0, initial) // IIFE. kick off recursion with initial values
+function getDependencies(mod, result) {
+      result = result || []
+            var dependencies = mod && mod.dependencies || []
+              Object.keys(dependencies).forEach(function(dep) {
+                      var key = dep + '@' + mod.dependencies[dep].version
+                              if (result.indexOf(key) === -1) result.push(key)
+                                      getDependencies(mod.dependencies[dep], result)
+                                            })
+        return result.sort()
 }
 
-module.exports = reduce
+module.exports = getDependencies
